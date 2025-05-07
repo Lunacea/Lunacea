@@ -44,11 +44,3 @@ My focus is on modern web technologies and Human Interaction Design.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-⭐️ From [@yourusername](https://github.com/yourusername)
