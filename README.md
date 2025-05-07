@@ -14,9 +14,7 @@
 I'm a web developer passionate about creating interactive and visually appealing web applications.
 My focus is on modern web technologies and Human Interaction Design.
 
-- 🔭 Currently working on my [portfolio website](https://lunacea.jp)
 - 🌱 Learning about advanced animation techniques and accessibility
-- 👯 Open to collaborating on innovative web projects
 - 🌍 Based in Japan
 - 🏫 Majoring in CS
 
