@@ -67,9 +67,7 @@ My focus is on modern web technologies and Human Interaction Design.
     <td width="50%">
       <h3 align="center">Future Project</h3>
       <p align="center">
-        <a href="#" target="_blank">
           ⛔
-        </a>
         <p align="center">
           An exciting new project - details coming soon!
         </p>
