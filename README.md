@@ -26,7 +26,7 @@ My focus is on modern web technologies and Human Interaction Design.
 
 ## 🌟 Current Projects
 
-- [Lunacea Portfolio](https://lunacea.jp) - My personal portfolio website built with Next.js and Three.js
+- [Lunacea Portfolio](https://lunacea.jp) - My personal portfolio website built with Next.js
 - [Other Project] - Brief description of another project
 
 ## �� How to Reach Me
