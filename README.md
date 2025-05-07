@@ -41,6 +41,3 @@ My focus is on modern web technologies and Human Interaction Design.
 - Contributing to open-source projects
 - Learning and experimenting with new web technologies
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
