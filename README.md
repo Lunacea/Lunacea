@@ -33,7 +33,7 @@ My focus is on modern web technologies and Human Interaction Design.
 
 - **Website**: [lunacea.jp](https://lunacea.jp)
 - **Email**: [contact@lunacea.jp](mailto:contact@lunacea.jp)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **GitHub**: [@yourusername](https://github.com/Lunacea)
 
 ## 🎯 Goals
 
