@@ -68,7 +68,7 @@ My focus is on modern web technologies and Human Interaction Design.
       <h3 align="center">Future Project</h3>
       <p align="center">
         <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x150?text=Coming+Soon" width="100%" alt="Future Project"/>
+          <img src="https://via.placeholder.com/300x150?text=Coming+Soon" width="100%" alt="⛔"/>
         </a>
         <p align="center">
           An exciting new project - details coming soon!
