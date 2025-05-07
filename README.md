@@ -83,22 +83,6 @@ My focus is on modern web technologies and Human Interaction Design.
 - Learning and experimenting with new web technologies
 - Sharing knowledge through blog posts and tutorials
 
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://lunacea.jp">
-    <img src="https://img.shields.io/badge/Website-lunacea.jp-38B2AC?style=for-the-badge&logo=vercel" alt="Website"/>
-  </a>
-  <a href="mailto:contact@lunacea.jp">
-    <img src="https://img.shields.io/badge/Email-contact@lunacea.jp-blue?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://github.com/Lunacea">
-    <img src="https://img.shields.io/badge/GitHub-Lunacea-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lunacea&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   
