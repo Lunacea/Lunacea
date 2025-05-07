@@ -1,16 +1,54 @@
-## Hi there 👋
+# Lunacea
 
-<!--
-**Lunacea/Lunacea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/badge/Website-lunacea.jp-38B2AC?style=flat-square)](https://lunacea.jp)
+[![Email](https://img.shields.io/badge/Email-contact@lunacea.jp-blue?style=flat-square)](mailto:contact@lunacea.jp)
 
-Here are some ideas to get you started:
+## 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a web developer passionate about creating interactive and visually appealing web applications.
+My focus is on modern web technologies and Human Interaction Design.
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **Framework**: Next.js, React, SvelteKit
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+
+### Backend
+- **Database**: Drizzle ORM, PostgreSQL
+- **Authentication**: Clerk
+
+### Tools & Testing
+- **Package Manager**: Bun
+- **Testing**: Vitest, Playwright, Testing Library
+- **Development**: Biome, ESLint
+
+## 🌟 Current Projects
+
+- [Lunacea Portfolio](https://lunacea.jp) - My personal portfolio website built with Next.js and Three.js
+- [Other Project] - Brief description of another project
+
+## �� How to Reach Me
+
+- **Website**: [lunacea.jp](https://lunacea.jp)
+- **Email**: [contact@lunacea.jp](mailto:contact@lunacea.jp)
+- **GitHub**: [@yourusername](https://github.com/yourusername)
+
+## 🎯 Goals
+
+- Creating more interactive web experiences
+- Contributing to open-source projects
+- Learning and experimenting with new web technologies
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+⭐️ From [@yourusername](https://github.com/yourusername)
