@@ -74,7 +74,7 @@ My focus is on modern web technologies and Human Interaction Design.
   </tr>
 </table>
 
-## 🎯 Goals
+## 🎯 Goals in My Future
 
 - Creating more interactive web experiences
 - Contributing to open-source projects
