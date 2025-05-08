@@ -16,7 +16,7 @@ My focus is on modern web technologies and Human Interaction Design.
 
 - 🌱 Learning about advanced animation techniques and accessibility
 - 🌍 Based in Japan
-- 🏫 Majoring in CS
+- 🏫 Majoring in Software Engeenering
 
 ## 🛠️ Tech Stack
 
