@@ -15,8 +15,8 @@ I'm a web developer passionate about creating interactive and visually appealing
 My focus is on modern web technologies and Human Interaction Design.
 
 - 🌱 Learning about advanced animation techniques and accessibility
-- 🌍 Based in Japan
 - 🏫 Majoring in Software Engeenering
+- 🌍 Based in Japan
 
 ## 🛠️ Tech Stack
 
@@ -77,9 +77,9 @@ My focus is on modern web technologies and Human Interaction Design.
 ## 🎯 Goals in My Future
 
 - Creating more interactive web experiences
-- Contributing to open-source projects
 - Learning and experimenting with new web technologies
 - Sharing knowledge through blog posts and tutorials
+- Contributing to open-source projects
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lunacea&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
