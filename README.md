@@ -20,7 +20,7 @@
 
 ---
 
-Hi, I'm a web developer and passionate about creating interactive and user-centered web applications.
+Hi, I'm a web developer passionate about creating interactive and user-centered web applications.
 
 - 🎯 Focus Areas: Human Interaction Design, User Experience, Frontend Technologies
 - 🌱 Learning: Advanced UI/UX patterns, accessibility standards, and modern web frameworks
@@ -28,17 +28,31 @@ Hi, I'm a web developer and passionate about creating interactive and user-cente
 
 ---
 
-## ☟ Portfolio Site
+<h2 align="center">☟ Portfolio Site</h2>
 
-<p align="center">
-  <a href="https://lunacea.jp" target="_blank">
-    <img src="https://github.com/user-attachments/assets/431d252f-23f6-490e-8a31-a851e0849217" width="100%" alt="Portfolio Website"/>
-  </a>
-</p>
+<a href="https://lunacea.jp" align="left" target="_blank">
+  <img align="left" src="https://github.com/user-attachments/assets/431d252f-23f6-490e-8a31-a851e0849217" alt="Portfolio Website" width="45%"/>
+</a>
+
+<div align="left">
+
+### Free to Visit✨
+Explore my complete portfolio featuring detailed project showcases, interactive demos, and technical blog posts.
+
+### [🔗 Web Site](https://lunacea.jp)
+
+### [🔗 GitHub Repo](https://github.com/Lunacea/lunacea-portfolio)
+
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,postgres,bun,sentry)](https://skillicons.dev)
+
+</div>
+
+<br clear="left"/>
 
 ---
 
-## 🛠️ Tech Stack & Stats
+<h2 align="center">🛠️ Tech Stack & Stats</h2>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunacea&hide=jupyter%20notebook&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
 
