@@ -31,7 +31,7 @@ Hi, I'm a web developer passionate about creating interactive and user-centered 
 <h2 align="center">☟ Portfolio Site</h2>
 
 <a href="https://lunacea.jp" align="left" target="_blank">
-  <img align="left" src="https://github.com/user-attachments/assets/431d252f-23f6-490e-8a31-a851e0849217" alt="Portfolio Website" width="45%"/>
+  <img align="left" src="https://github.com/user-attachments/assets/431d252f-23f6-490e-8a31-a851e0849217" alt="Portfolio Website" width="55%"/>
 </a>
 
 <div align="left">
@@ -44,7 +44,7 @@ Explore my complete portfolio featuring detailed project showcases, interactive 
 ### [🔗 GitHub Repo](https://github.com/Lunacea/lunacea-portfolio)
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,postgres,bun,sentry)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,react,nextjs,tailwind,threejs,postgres,drizzle,bun,sentry&perline=5)](https://skillicons.dev)
 
 </div>
 
@@ -54,7 +54,7 @@ Explore my complete portfolio featuring detailed project showcases, interactive 
 
 <h2 align="center">🛠️ Tech Stack & Stats</h2>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunacea&hide=jupyter%20notebook&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunacea&hide=jupyter%20notebook&layout=compact&theme=tokyonight" alt="Top Languages" width="55%"/>
 
 <div align="left">
 
