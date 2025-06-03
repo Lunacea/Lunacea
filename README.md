@@ -49,30 +49,15 @@ My focus is on modern web technologies and Human Interaction Design.
 
 ## 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Lunacea Portfolio</h3>
-      <p align="center">
-        <a href="https://lunacea.jp" target="_blank">
-          <img src="https://via.placeholder.com/300x150?text=Lunacea+Portfolio" width="100%" alt="Portfolio Website"/>
-        </a>
-        <p align="center">
-          My personal portfolio website showcasing my work and skills, built with Next.js, TypeScript, and Tailwind CSS.
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Future Project</h3>
-      <p align="center">
-          ⛔
-        <p align="center">
-          An exciting new project - details coming soon!
-        </p>
-      </p>
-    </td>
-  </tr>
-</table>
+<h3 align="center">My Portfolio</h3>
+<p align="center">
+  
+</p>
+<p align="center">
+  <a href="https://lunacea.jp" target="_blank">
+    <img src="https://github.com/user-attachments/assets/431d252f-23f6-490e-8a31-a851e0849217" width="50%" alt="Portfolio Website"/>
+  </a>
+</p>
 
 ## 🎯 Goals in My Future
 
