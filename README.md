@@ -22,7 +22,7 @@
 
 Hi, I'm a web developer passionate about creating interactive and user-centered web applications.
 
-- 🎯 Focus Areas: Human Interaction Design, User Experience, Frontend Technologies
+- 🎯 Focus Areas: Human Computer Interaction, User Experience, Frontend Technologies
 - 🌱 Learning: Advanced UI/UX patterns, accessibility standards, and modern web frameworks
 - 🌍 Location: Japan
 
