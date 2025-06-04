@@ -63,5 +63,5 @@ Hi, I'm a web developer passionate about creating interactive and user-centered 
   ### Free to Visit✨
   Explore my complete portfolio featuring detailed project showcases, interactive demos, and technical blog posts.
       
-  ### Tech Stack
+  ### Developed with
   [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,react,nextjs,tailwind,threejs,postgres,drizzle,bun,sentry)](https://skillicons.dev)
