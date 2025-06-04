@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Lunacea&color=blueviolet&style=popout-square" alt="Profile Views"/>
+  [![Lunacea profile views](https://u8views.com/api/v1/github/profiles/129644041/views/day-week-month-total-count.svg)](https://u8views.com/github/Lunacea)
 </div>
 
 <div align="center">
