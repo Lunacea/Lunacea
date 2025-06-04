@@ -1,5 +1,5 @@
 <div align="right">
-  [![Lunacea profile views](https://u8views.com/api/v1/github/profiles/129644041/views/day-week-month-total-count.svg)](https://u8views.com/github/Lunacea)
+  <a href="https://u8views.com/github/Lunacea"><img src="https://u8views.com/api/v1/github/profiles/129644041/views/day-week-month-total-count.svg"></a>
 </div>
 
 <div align="center">
