@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>About Lunacea</h1>
-  <p><i>Web Developer | Human Interaction Designer</i></p>
+  <p><i>Web Developer | Interaction Designer</i></p>
   <p>
     <a href="https://lunacea.jp">
       <img src="https://img.shields.io/badge/Website-lunacea.jp-38B2AC?style=flat-square&logo=vercel" alt="Website"/>
@@ -24,7 +24,6 @@ Hi, I'm a web developer passionate about creating interactive and user-centered 
 
 - 🎯 Focus Areas: Human Computer Interaction, User Experience, Frontend Technologies
 - 🌱 Learning: Advanced UI/UX patterns, accessibility standards, and modern web frameworks
-- 🌍 Location: Japan
 
 ---
 
