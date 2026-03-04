@@ -1,7 +1,3 @@
-<div align="right">
-  <a href="https://u8views.com/github/Lunacea"><img src="https://u8views.com/api/v1/github/profiles/129644041/views/day-week-month-total-count.svg"></a>
-</div>
-
 <div align="center">
   <h1>About Lunacea</h1>
   <p><i>Web Developer | Interaction Designer</i></p>
