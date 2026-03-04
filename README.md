@@ -56,13 +56,5 @@ Hi, I'm a web developer passionate about creating interactive and user-centered 
 ---
 ---
 
-<h2> ☟ Portfolio Site</h2>
-<a href="https://lunacea.jp" target="_blank">
-  <img src="https://github.com/user-attachments/assets/431d252f-23f6-490e-8a31-a851e0849217" alt="Portfolio Website"/>
-</a>
-
-  ### Free to Visit✨
-  Explore my complete portfolio featuring detailed project showcases, interactive demos, and technical blog posts.
-      
-  ### Developed with
-  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,react,nextjs,tailwind,threejs,postgres,drizzle,bun,sentry)](https://skillicons.dev)
+<h2>Portfolio Site</h2>
+maintaining now
