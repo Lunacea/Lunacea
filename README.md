@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/Website-lunacea.jp-38B2AC?style=flat-square&logo=vercel" alt="Website"/>
     </a>
     <a href="mailto:hello@lunacea.jp">
-      <img src="https://img.shields.io/badge/Email-contact@lunacea.jp-blue?style=flat-square&logo=gmail" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-hello@lunacea.jp-blue?style=flat-square&logo=gmail" alt="Email"/>
     </a>
     <a href="https://github.com/Lunacea">
       <img src="https://img.shields.io/badge/GitHub-Lunacea-181717?style=flat-square&logo=github" alt="GitHub"/>
