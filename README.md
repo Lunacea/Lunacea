@@ -30,7 +30,6 @@ Hi, I'm a web developer passionate about creating interactive and user-centered 
 <h2> 🛠️ Tech Stack & Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunacea&hide=jupyter%20notebook&layout=compact&theme=tokyonight" alt="Top Languages" />
   <h3>Frontend</h3>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
